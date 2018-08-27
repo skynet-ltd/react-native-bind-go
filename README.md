@@ -1,0 +1,1 @@
+## Example of use Golang code in React-Native app
